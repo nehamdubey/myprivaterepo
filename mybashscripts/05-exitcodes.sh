@@ -18,5 +18,12 @@
 # $? # This is a special variable in bash which will have the exit code of the last executed command.
 
 
-#!/bin/bash
+
 echo "Demo on exit codes"
+
+sleep 2
+ls -l # Execute the ls command
+sleep 2
+echo $? # Print the exit status of the ls command
+
+echo "Print the exit status of the previous command $?"
