@@ -10,3 +10,5 @@ echo -e "Hello World\nThis is my first bash script\nI am learning bash scripting
 echo -e "Hello World\tThis is my first bash script\nI am learning bash scripting"
 
 echo -e "Hello\nMyName is Manoj\nHow you doing?"
+
+echo -e "sr.no\tname\tcity\tphone"
