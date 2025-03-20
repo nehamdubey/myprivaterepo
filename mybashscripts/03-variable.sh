@@ -42,7 +42,8 @@ echo "Printing the value of b $b"
 # TODAYS_DATE="2025-03-19"
  TODAYS_DATE=$(date +%F)
   echo "Today's date is $TODAYS_DATE" 
-  echo "Today's date is $date"
+  #echo "Today's date is $date"
+  echo "Today's date is $date --date="yesterday"
 # Demo to use expression via parathesis ()
 # echo "Number of logged sessions on the server = $(who | wc -l)"
 
