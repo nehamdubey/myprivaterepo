@@ -22,7 +22,7 @@
 echo "Demo on exit codes"
 
 sleep 2
-ls -l # Execute the ls command
+# ls -l # Execute the ls command
 sleep 2
 echo $? # Print the exit status of the ls command
 
