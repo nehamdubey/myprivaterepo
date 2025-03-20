@@ -20,6 +20,7 @@
 # $varName is going to print the value of the variable when used with echo command. 
 
 a=10
+b=100
 echo "Printing the value of a $a"
 echo "Printing the value of b $b"
 # When you attempt to print the value of a variable that is not defined, it will print the empty value. 
@@ -28,10 +29,14 @@ echo "Printing the value of b $b"
 # rm -rf /data/$DATADIR  # rm /data/
 
 # $a or ${a} or "${a}" 
-# echo "Printing the value of a $a"
-# echo "Printing the value of a ${a}"
-# echo Printing the value of a ${a}
-# echo 'Printing the value of a ${a}'
+ echo "Printing the value of a $a"
+ echo "Printing the value of a ${a}"
+ echo Printing the value of a ${a}
+ echo 'Printing the value of a ${a}'
+ echo 'Printing the value of a ${b}'
+ echo "Printing the value of a $b"
+ echo "Printing the value of a ${b}"
+ echo Printing the value of a ${b}
 # when you enclose any variable in single quotes, it will print the variable name as it is. That also means, single quotes will elimiate the special variables power.
 
 # TODAYS_DATE="2025-03-06"
