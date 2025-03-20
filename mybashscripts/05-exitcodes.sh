@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Each and every action in linux will have an exit code
 
