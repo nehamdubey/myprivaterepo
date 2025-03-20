@@ -39,9 +39,9 @@ echo "Printing the value of b $b"
  echo Printing the value of a ${b}
 # when you enclose any variable in single quotes, it will print the variable name as it is. That also means, single quotes will elimiate the special variables power.
 
- TODAYS_DATE="2025-03-06"
+ TODAYS_DATE="2025-03-19"
 # TODAYS_DATE=$(date +%F)
-# echo "Today's date is $TODAYS_DATE" 
+  echo "Today's date is $TODAYS_DATE" 
 # Demo to use expression via parathesis ()
 # echo "Number of logged sessions on the server = $(who | wc -l)"
 
