@@ -17,6 +17,6 @@
 
 # $? # This is a special variable in bash which will have the exit code of the last executed command.
 
-Demo on exit codes: 
+
 #!/bin/bash
 echo "Demo on exit codes"
