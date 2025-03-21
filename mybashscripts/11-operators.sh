@@ -49,4 +49,9 @@ if [ $A -eq $B ]; then
     echo "A is equal to B"
 else 
     echo "A is not equal to B"
+elseif [ $A -eq $C ]; then 
+    echo "A is equal to C"
+else 
+    echo "A is not equal to C"    
 fi
+COMMENT
