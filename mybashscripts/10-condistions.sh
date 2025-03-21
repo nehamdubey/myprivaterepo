@@ -70,3 +70,4 @@ elif 20 -gt 10 ]; then
  else
  echo "End of the script"
  fi
+COMMENT
