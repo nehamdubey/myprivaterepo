@@ -69,3 +69,4 @@ elif 20 -gt 10 ]; then
     echo "10 is equal to 10"
  else
  echo "End of the script"
+ fi
