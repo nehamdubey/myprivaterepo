@@ -1,0 +1,12 @@
+total 25
+-rw-r--r-- 1 INY1810 1049089   73 Mar 19 22:40 bash-new
+-rwxr-xr-x 1 INY1810 1049089  499 Mar 19 22:56 01-print.sh
+-rwxr-xr-x 1 INY1810 1049089  311 Mar 19 23:15 02-shenbang.sh
+-rwxr-xr-x 1 INY1810 1049089 2338 Mar 19 23:45 03-variable.sh
+-rwxr-xr-x 1 INY1810 1049089 1359 Mar 19 23:59 04-specialvariables.sh
+-rwxr-xr-x 1 INY1810 1049089  994 Mar 20 13:50 05-exitcodes.sh
+-rwxr-xr-x 1 INY1810 1049089  257 Mar 21 15:35 06-quotes.sh
+-rwxr-xr-x 1 INY1810 1049089  257 Mar 21 15:40 07-read.sh
+-rwxr-xr-x 1 INY1810 1049089 1098 Mar 21 15:56 08-functions.sh
+-rwxr-xr-x 1 INY1810 1049089 1112 Mar 21 19:38 09-redirectors.sh
+-rw-r--r-- 1 INY1810 1049089    0 Mar 21 19:38 output.txt
