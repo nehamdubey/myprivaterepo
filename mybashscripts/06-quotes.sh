@@ -5,8 +5,8 @@
 
 a=1050
 echo "Demo on this quotes:"
-#echo $?
-#echo '$?'
-#echo "Value of is $?" 
+echo $?
+echo '$?'
+echo "Value of is $?" 
 echo "Value of a is $a"
 #echo 'Value of a is $a'
