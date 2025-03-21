@@ -9,4 +9,4 @@ echo $?
 echo '$?'
 echo "Value of is $?" 
 echo "Value of a is $a"
-#echo 'Value of a is $a'
+echo 'Value of a is $a'
