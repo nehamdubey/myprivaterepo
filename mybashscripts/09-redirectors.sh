@@ -12,7 +12,7 @@
         2) Standard Error                           2> or 2>> 
         3) Standard Output and Standard Error       &> or &>> 
 
-# ls -ltr    >  output.txt   # Redirects the output to  output.txt
+ ls -ltr    >  output.txt   # Redirects the output to  output.txt
 # ls -ltr    >> output.txt   # Redirects and appends the output to  output.txt
 # ls -ltr    2> output.txt   # Redirects the error only to  output.txt
 # ls -ltr    &> output.txt   # Redirects the output or error output.txt
