@@ -10,12 +10,12 @@
 ```
 
 Operators on numbers:
-```
+
     -eq , -ne , -gt, -ge, -lt, -le
 
     [ 1 -eq 1 ] 
     [ 1 -ne 1 ]
-```
+
 
 Operators on Strings: ( a=10, abc == abc, a != b) 
 
