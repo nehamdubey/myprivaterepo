@@ -59,12 +59,13 @@ if condition is ideally available in 3 formats :
 
     fi 
 
-COMMENT
+# COMMENT
 
 if [ 10 -gt 20 ]; then 
     echo "10 is greater than 20"
-elseif [ 20 -gt 10 ]; then 
+elif 20 -gt 10 ]; then 
     echo "20 is greater than 10"
-    elseif [ 10 -eq 10 ]; then
+    elif [ 10 -eq 10 ]; then
     echo "10 is equal to 10"
+ else
  echo "End of the script"
