@@ -8,9 +8,9 @@
 #     2) Output Redirector  ( >> or > )( Means routing the output to a file )        :    > or 1>  or >>  or  &>  ( >> appends the latest output to the existing content)  
 
     # Outputs 
-        1) Standard Output                          1> or > or >> ( Append )
-        2) Standard Error                           2> or 2>> 
-        3) Standard Output and Standard Error       &> or &>> 
+    #   1) Standard Output                          1> or > or >> ( Append )
+    #   2) Standard Error                           2> or 2>> 
+    #   3) Standard Output and Standard Error       &> or &>> 
 
  ls -ltr    >  output.txt   # Redirects the output to  output.txt
 # ls -ltr    >> output.txt   # Redirects and appends the output to  output.txt
