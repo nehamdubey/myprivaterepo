@@ -23,15 +23,15 @@
 
 #ls -a  # This command will show all the hidden files in the current directory
 #we can make any hidden file by using "." in the beginning of the file name.
-touch .bash_profile
-echo "alias ll='ls -ltr'" >> .bash_profile
-echo "alias vi='vim'" >> .bash_profile
-echo "alias c='clear'" >> .bash_profile
-echo "alias p='pwd'" >> .bash_profile
+#touch .bash_profile
+#echo "alias ll='ls -ltr'" >> .bash_profile
+#echo "alias vi='vim'" >> .bash_profile
+#echo "alias c='clear'" >> .bash_profile
+#echo "alias p='pwd'" >> .bash_profile
 
 stat() {
     echo "Todays date is $(date +%F)"
-    echo "Load Averaeg On the system is $(uptime)"
+    echo  Load Averaeg On the system is $(uptime)
     echo "Run level on the system is $(runlevel)"
 }
 
