@@ -3,7 +3,9 @@
 # If the value is this, then do that.
 # If the value is this,then do that, if not do this
 # If or ifelse of else if conditions. 
-
+# for multiline comments, we use <<COMMENT  and COMMENT
+# for single line comments, we use #
+ 
 #!/bin/bash
 
 <<COMMENT
