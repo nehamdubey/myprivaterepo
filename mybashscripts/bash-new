@@ -1,2 +1,5 @@
 sudo set-hostname myname
 I will be adding more information as we needed.
+\n : this is special character with \n move the cursor to the new line
+# -e is a special charator to print
+\t this is to go to next tab in a special charactor
